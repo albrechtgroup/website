@@ -1,0 +1,30 @@
+.nav {
+	float: right;
+	font-size: 25px;
+}
+body {
+	background-color: lightslategrey;
+	font-family: Georgia, serif;
+	margin: 70px;
+}
+h1 {
+	text-align: center;
+}
+.row div {
+	border: 5px solid;
+	margin: 100px;
+}
+img {
+	border: 3px solid black;
+	width: 77%;
+	height: auto;
+	padding: 0;
+	margin: 10px;
+}
+@media (max-width: 600px) {
+	div {
+		color: blue;
+		width: auto;
+		float: none;
+	}
+}

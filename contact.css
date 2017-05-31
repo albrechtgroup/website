@@ -1,0 +1,21 @@
+
+.nav {
+	float: right;
+	font-size: 25px;
+}
+body {
+	background-color: darkseagreen;
+	font-family: Georgia, serif;
+	font-size: 17px;
+	margin: 70px;
+}
+.contact-info {
+	text-align: center;
+	padding-top: 10%;
+}
+.foot {
+	margin-top: 50%;
+	text-align: center;
+}
+
+

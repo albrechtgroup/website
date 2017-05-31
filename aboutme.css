@@ -1,0 +1,29 @@
+.nav {
+	float: right;
+	font-size: 25px;
+}
+.profile-image img {
+	width: 350px;
+	padding: 5px;
+	float: auto;
+	border: 3px solid cadetblue;
+}
+.title {
+	color: seashell;
+	border: 3px solid cadetblue;
+	margin: 5px;
+	padding: 0 30% 7px 30%;
+}
+body {
+	background-color: darkseagreen;
+	font-family: Georgia, serif;
+	font-size: 17px;
+	margin: 70px;
+}
+@media (max-width: 600px) {
+	div {
+		color: blue;
+		width: auto;
+		float: none;
+	}
+}
